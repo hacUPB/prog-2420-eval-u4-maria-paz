@@ -1,5 +1,3 @@
-# CÓDIGO PYTHON:
-
 import os
 import csv
 import statistics
